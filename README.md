@@ -17,3 +17,5 @@ Dieses Beispiel entschlüsselt den String "fhjl". Das Argument false gibt an, da
 
 python main.py \"fhjl\" false
 
+
+![Beispiel command](/command.png "Command")
